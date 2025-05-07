@@ -1,0 +1,62 @@
+{
+    "TEMPO_PERMANENCIA_CLIENTE_MESES": {
+        "descri\u00e7\u00e3o": "Tempo, em meses, que o cliente est\u00e1 ativo.",
+        "tipo": "int"
+    },
+    "B": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado B.",
+        "tipo": "int"
+    },
+    "C": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado C.",
+        "tipo": "int"
+    },
+    "D": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado D.",
+        "tipo": "int"
+    },
+    "E": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado E.",
+        "tipo": "int"
+    },
+    "G": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado G.",
+        "tipo": "int"
+    },
+    "H": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado H.",
+        "tipo": "int"
+    },
+    "J": {
+        "descri\u00e7\u00e3o": "Quantidade de solicita\u00e7\u00f5es do servi\u00e7o mascarado J.",
+        "tipo": "int"
+    },
+    "OUTROS": {
+        "descri\u00e7\u00e3o": "Soma de solicita\u00e7\u00f5es de servi\u00e7os menos frequentes agrupados.",
+        "tipo": "int"
+    },
+    "TOTAL_DOLAR_FATURADO": {
+        "descri\u00e7\u00e3o": "Total faturado em d\u00f3lar.",
+        "tipo": "float"
+    },
+    "TICKET_MEDIO": {
+        "descri\u00e7\u00e3o": "Faturamento m\u00e9dio por solicita\u00e7\u00e3o.",
+        "tipo": "float"
+    },
+    "RECENCIA": {
+        "descri\u00e7\u00e3o": "Dias desde a \u00faltima transa\u00e7\u00e3o; quanto menor, mais recente.",
+        "tipo": "int"
+    },
+    "FREQUENCIA": {
+        "descri\u00e7\u00e3o": "Quantidade de meses distintos com transa\u00e7\u00f5es.",
+        "tipo": "int"
+    },
+    "VALOR": {
+        "descri\u00e7\u00e3o": "Soma total de transa\u00e7\u00f5es registradas pelo cliente.",
+        "tipo": "int"
+    },
+    "CHURN": {
+        "descri\u00e7\u00e3o": "Indica se houve abandono. 0 para n\u00e3o, 1 para sim.",
+        "tipo": "int"
+    }
+}

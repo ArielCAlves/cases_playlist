@@ -18,7 +18,7 @@ Canal voltado para abordar temas como Carreira em Dados e IA
 | CASE 06 | <a href="https://github.com/ArielCAlves/cases_playlist/tree/main/Case06"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/Thumbnail%20-%20Case%2006.jpg" height="200"/></a> | <a href="https://www.youtube.com/watch?v=Po39ryvpFBM"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/logo-youtube.png?raw=true" width="400" height="200"/></a> |
 | CASE 07 | <a href="https://github.com/ArielCAlves/cases_playlist/tree/main/Case07"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/Thumbnail%20-%20Case%2007.jpg" height="200"/></a> | <a href="https://www.youtube.com/watch?v=5oIU76aodRM"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/logo-youtube.png?raw=true" width="400" height="200"/></a> |
 | CASE 08 | <a href="https://github.com/ArielCAlves/cases_playlist/tree/main/Case08"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/Thumbnail%20-%20Case%2008.jpg" height="200"/></a> | <a href="https://www.youtube.com/watch?v=_OLHLiJ-cgg"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/logo-youtube.png?raw=true" width="400" height="200"/></a> |
-| CASE 09 | Em Construção | Ficará disponível em 21/05/2025 às 12h |
+| CASE 09 | <a href="https://github.com/ArielCAlves/cases_playlist/tree/main/Case09"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/Thumbnail%20-%20Case%2009.jpg" height="200"/></a> | <a href="https://www.youtube.com/watch?v=c6ZGiY1grRA"><img src="https://github.com/ArielCAlves/cases_playlist/blob/main/imgs/logo-youtube.png?raw=true" width="400" height="200"/></a> |
 | CASE 10 | Em Construção | Ficará disponível em 28/05/2025 às 12h |
 
 

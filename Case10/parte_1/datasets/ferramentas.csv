@@ -1,0 +1,11 @@
+id,nome,categoria
+1,GPT-4o,LLM
+2,LLaMA 3,LLM
+3,Mistral 8B,LLM
+4,LangChain,Orquestração
+5,LlamaIndex,Orquestração
+6,ChromaDB,Vector DB
+7,FAISS,Vector DB
+8,Weaviate,Vector DB
+9,all-MiniLM,Embedding Model
+10,MLflow,MLOps

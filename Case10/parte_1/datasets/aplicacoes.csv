@@ -1,0 +1,21 @@
+id,id_org,id_ferramenta,descricao_uso,beneficio_percentual,ano
+1,1,1,Geração de texto com IA,40.0,2024
+2,2,2,Diagnóstico assistido,35.0,2024
+3,3,3,Análise governamental preditiva,50.0,2024
+4,4,4,Recomendação de produtos,45.0,2024
+5,5,5,Busca jurídica com RAG,60.0,2024
+6,6,6,Relatórios analíticos automatizados,42.0,2024
+7,7,7,Chatbot de atendimento,38.0,2024
+8,8,8,Análise de inovação com embeddings,33.0,2024
+9,9,9,Consulta a documentos públicos,41.0,2024
+10,10,10,Gerenciamento de modelos,37.0,2024
+11,1,2,Resumo de documentos clínicos,31.0,2024
+12,2,3,Visualização de políticas públicas,29.0,2024
+13,3,1,Geração de relatórios,43.0,2024
+14,4,6,Indexação de normas,48.0,2024
+15,5,7,Recomendação legal,46.0,2024
+16,6,8,Automação de respostas,30.0,2024
+17,7,9,Análise de clusters semânticos,27.0,2024
+18,8,10,Gestão de deploys,39.0,2024
+19,9,4,Chat com base vetorial,36.0,2024
+20,10,5,Pesquisa jurídica com feedback,34.0,2024
